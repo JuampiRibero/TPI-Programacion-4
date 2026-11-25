@@ -9,7 +9,7 @@ Aplicación web para un negocio de comidas donde los clientes se registran, reco
 
 > **Repositorio:** [`¡Ir al repositorio!`](https://github.com/JuampiRibero/TPI-Programacion-4)
 
-> **Video de demostración:** [`¡Ir al video!`](https://github.com/JuampiRibero/TPI-Programacion-4)
+> **Video de demostración:** [`¡Ir al video!`](https://drive.google.com/file/d/1mpw_1EZal1jIAfchmyT1njwZs_b4mN7k/view?usp=drive_link)
 
 ## Estructura
 
